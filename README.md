@@ -12,6 +12,9 @@ To write a python program to perform stop and wait protocol
 
 # Client:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -31,6 +34,9 @@ break
 
 # Server:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
